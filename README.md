@@ -1,0 +1,2 @@
+# linearSearch
+Created with CodeSandbox
