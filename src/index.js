@@ -1,4 +1,4 @@
-function linear(array, value) {
+function linearSearch(array, value) {
   for (let idx of array) {
     if (array[idx] === value) {
       return idx;
